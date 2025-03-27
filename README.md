@@ -2,7 +2,7 @@
 
 Este projeto é um banco de dados estruturado para um sistema de gestão de vagas de emprego, permitindo o cadastro de usuários, empresas, candidatos, vagas, candidaturas, favoritos, mensagens e recuperação de senha.
 
-h2>📋 Estrutura do Banco de Dados</h2>
+<h2>📋 Estrutura do Banco de Dados</h2>
 <ul>
     <li><strong>usuario</strong>: Armazena informações gerais dos usuários, podendo ser candidatos ou empresas.</li>
     <li><strong>empresa</strong>: Contém dados específicos das empresas.</li>
