@@ -17,7 +17,7 @@ Este projeto é um banco de dados estruturado para um sistema de gestão de vaga
 <h2>🏗️ Modelo Lógico e Conceitual</h2>
 <p>O modelo lógico e conceitual do banco de dados representam a estrutura e os relacionamentos entre as tabelas. Adicione as imagens ou diagramas para facilitar a compreensão:</p>
 <img src="https://github.com/user-attachments/assets/f230e29a-2095-4ea8-93e0-6b1bda0d0cb0" alt="Modelo Conceitual">
-<img src="caminho/para/modelo_logico.png" alt="Modelo Lógico">
+<img src="https://github.com/user-attachments/assets/40b98e36-d165-4f50-b851-adbd615910d7" alt="Modelo Lógico">
 
 <h2>🔍 Características dos Elementos das Tabelas</h2>
 <ul>
