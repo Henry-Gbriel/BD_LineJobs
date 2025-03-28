@@ -1,3 +1,7 @@
+--  Isso informa ao GitHub que os arquivos `.sql` devem ser tratados como SQL.
+
+
+
 CREATE DATABASE linejobs; -- Criando o banco de dados 
 
 CREATE TABLE usuario (
